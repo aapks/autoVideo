@@ -23,6 +23,7 @@ https://github.com/hyb1996/Auto.js-VSCode-Extension
 ### 运行
 若想依次运行所有脚本 直接运行“网赚-总.js”
 若只运行单个脚本，编辑单个脚本，找到
+## [抖音火山版](https://apkapp.gallery/dl/10505945/)
 
 	// onlyRun()
 将其代码前的“//”删除，取消注释，然后运行单个脚本即可
